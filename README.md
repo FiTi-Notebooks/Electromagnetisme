@@ -1,1 +1,1 @@
-# Electromagnetisme
+# Electrostatique
